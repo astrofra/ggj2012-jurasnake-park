@@ -1,0 +1,13 @@
+<Version=1.0>
+<Environment=
+	<Name="Jurasnake Park">
+	<Authors="GGJ2012">
+	<Description="Made for the GGJ2012 Paris">
+	<Copyright="Copyright 2012">
+	<ScriptUnit=
+		<Script="scripts/project.nut">
+		<Class="ProjectHandler">
+	>
+	<Include>
+	<SearchPaths>
+>
