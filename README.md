@@ -111,6 +111,30 @@ After several hours of determined attempt to correctly detect the collision betw
 Physical collisions are not accurately reporting this event to me, and the use of triggers also proves fruitless.
 
 Rather than risk exhausting ourselves on this idea, we decide to use the two end screens randomly. The game works, although it's particularly unbalanced. The prototype is however well advanced, it's time to take a second night's rest.
+## 8:30 AM, Sunday, January 28, 2012
+Back on my code, after a night partly spent thinking about the last priorities, I add a final challenge element, drawn by Florian: indigenous people wearing masks.
+
+Again, after 1 hour of various implementations, I fail to test the "water cannon / indigenous" collisions. So we decide once again to abandon a feature.
+
+I just take the time to make a [video capture](http://www.youtube.com/watch?v=2AjD8A8drUo) of the almost-last iteration of the game, to register the game on the Global Game Jam website.
+
+Having set a deadline around 11 AM for a testable version, I take care of the last game design adjustments: new obstacles to increase the diversity of the game and the last sound effects produced by Eddy, as well as cosmetic elements around the GUI.
+
+The randomness of traps and bonuses remains quite rigid, as I've reached the limit of what my [spawning](http://en.wikipedia.org/wiki/Spawning_%28video_gaming%29) code could generate. This is also a point I need to improve at my next Jam.
+
+## 12 PM
+Last second stress: the bonuses, which were working an hour ago, remain inert when the player picks them up. I probably broke something in my code, which sometimes happens when programming, and even more so in a hurry.
+
+While I start to track down this last-minute bug, Florian goes downstairs to fetch Sandwiches & Wraps, offered by the Isart staff. Once again, SVN is going to save my life: I ask it to give me the list of changes made to the source code in the last hour. In a few seconds, a line that I had deleted catches my attention: the bonuses are no longer correctly initialized. I restore the line of code in question. Phew, everything works again!
+
+While discussing with another Jammer, a student at Isart, who watches me test the game one last time, I urgently add a huge "Game Over" to the end illustrations produced by Florian: "You should add a 'Game Over', by convention" ... So there are conventions in video games? Like in theater or cinema? I realize a little more what it's like to learn video games in a school 🙂
+
+## 1 PM
+The official project completion deadline is approaching, but we want to make the game accessible to other Jammers as soon as possible. We still have 2 good hours to correct the last playability issues, but I prefer to release the game as is, especially since my fingers are starting to get numb. In the hours to come, many Jammers and journalists covering the GGJ will take turns on Jurasnake Park. One of them will manage to break a high score that remains undefeated to this day.
+
+One of our neighboring Jammers points out to me that the game is still a bit hardcore, and that the difficulty deserves to be adjusted. When I explain to him that I wanted to wrap up the release as soon as possible so that everyone could test the game, he replies: "Ah? So you skipped the play-test phase?"
+
+Releasing a game by avoiding the testing phase to take advantage of a favorable launch window? This pattern suddenly seems eerily familiar ...
 
 
 
