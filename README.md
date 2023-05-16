@@ -15,6 +15,8 @@ _During the GGJ12, I kept a devlog that was published on the [Game Side Story](h
 
 ### 3:30pm, Friday, January 27, 2012
 
+![Isart Digital school](img/ggj12-report-000.png)
+
 Arrival at the GGJ, equipped with our t-shirts and badges, we wait in the courtyard of [Isart Digital](http://www.isartdigital.com/) for all participants to arrive. Some faces are familiar, including a VRGeeks team specialist carrying an entire cube of sensors, helmets and other accelerometers.
 
 The majority of the jammers present are men... We still have a bit of a way to go to achieve parity! In the meantime, I'm refining my mini framework under [GameStart](http://www.gamestart3d.com/) (screen change routines, Xbox Paddle reading...)
@@ -31,6 +33,8 @@ At the end of this keynote, rich in wise and valuable teachings, Olivier Lejade 
 
 Ready, set, go! We have 30 minutes to come up with a concept, which each of us will have to develop and present to the others in 30 seconds. Guaranteed stress, doubled by the difficulty of getting to the point in so little time. I personally won't have time to present my entire concept, which is much simpler than most of the crazy ideas coming from my co-jammers.
 
+![The 30 seconds pitch ordeal!](img/ggj12-report-001.png)
+
 Among the ideas that caught my attention, some of which are brilliantly original or hilarious, Alexis Moroz, an experienced game designer I had the opportunity to see in action at the GGJ2011, will propose a concept that will, unfortunately, not be developed. But the end of GGJ2012 Paris will show me how he might be dazzling and efficient!
 
 ### 6pm (more or less)
@@ -40,6 +44,8 @@ The recruitment session is launched. Everyone roams around Isart, a pizza in one
 Teams of 2 or 3 (!) coders are ardently looking for graphic designers, and on the opposite side, game designers & artists are doing everything to bring a coder to work on their project.
 
 For my part, I decide to team up with [Florian Belmonte](http://www.florianb.com/), an illustrator & 2D animator from the same city as me, but with whom I've never worked. He's OK with developing my game concept. The risk is relatively reduced on purpose: it's my first GGJ as a coder and I don't want to sink the ship!
+
+![Let's code!](img/ggj12-report-002.png)
 
 All we need now is to find a sound designer, a task that will turn out to be more complex than expected, Olivier Lejade having planned to integrate a limited number of them into the Jammers' staff. In the end, Eddy is more than happy to join us, knowing that he will have the opportunity to work on 1 or 2 other projects in parallel. The Global Game Jam is also about this: plunging into 48 hours of pure rush with perfect strangers!
 
@@ -71,7 +77,7 @@ I have time to make a video capture and upload the result of iteration #0 (a cod
 
 ### 8:30am, Saturday, January 28, 2012
 
-Back at the Isart Digital premises. We find the “WTFs” team there ([Welcome To the Freak Show](http://globalgamejam.org/2012/welcome-freak-show-aka-wtfs)). They have spent almost an all-nighter on their project, whose prototype, although visually basic, already has interesting gameplay.
+Back at the Isart Digital premises. We find the “WTFs” team there ([Welcome To the Freak Show](https://www.youtube.com/watch?v=x4Z6YP9xnsc)). They have spent almost an all-nighter on their project, whose prototype, although visually basic, already has interesting gameplay.
 
 As I boot up my machine, I find yesterday's prototype and quickly consider the list of priorities I thought about during my (short) night:
 
@@ -99,15 +105,17 @@ With a life counter and a score, it's starting to look like a game, and the othe
 
 After the third tester who asks me the same thing, I realize that:
 
-- I'm a poor player, being unable to answer the question.
+- I don't have the mindset of a gamer, being unable to answer the question.
 - I need to implement a high score, with a save feature if possible.
 
-By the end of the day, the bonuses are functional, the high score is displayed, Florian's decorative elements are almost all in place, and the snake's head is animated.
+By the end of the day, the bonuses are functional, the high score shows up, Florian's decorative elements are almost all in place, and the snake's head is animated.
 
 To add a nuance to the challenge, we decide on two alternative endings:
 
 - If the player collides with the closed mouth of the snake, the game ends because the jeep is damaged. A game over screen will show the jeep in pieces.
 - If the player drives the jeep into the snake's open mouth, the game stops directly because the jeep has been swallowed. Florian has drawn an ending screen that is reminiscent of Jonah's misadventures in the whale's belly.
+
+![Testing the 2 players mode](img/ggj12-report-003.png)
 
 ### 10pm, Saturday, January 28
 
@@ -140,6 +148,8 @@ While discussing with another Jammer, a student at Isart, who watches me test th
 
 The official project completion deadline is approaching, but we want to make the game accessible to other Jammers as soon as possible. We still have 2 good hours to correct the last playability issues, but I prefer to release the game as is, especially since my fingers are starting to get numb. In the hours to come, many Jammers and journalists covering the GGJ will take turns on Jurasnake Park. One of them will manage to break a high score that remains undefeated to this day.
 
+![Final gameplay with a Xbox pad in hand](img/ggj12-report-004.png)
+
 One of our neighboring Jammers points out to me that the game is still a bit hardcore, and that the difficulty deserves to be adjusted. When I explain to him that I wanted to wrap up the release as soon as possible so that everyone could test the game, he replies: "Ah? So you skipped the play-test phase?"
 
 Releasing a game by avoiding the testing phase to take advantage of a favorable launch window? This pattern suddenly seems eerily familiar ...
@@ -165,6 +175,8 @@ The final meeting in the auditorium will be an opportunity for the Jammers' team
 The definition that seems to best match is this: "The life cycle of a video game, from design to delivery to players, through the promotion of the concept and its realization, condensed into 48 hours." It's a bit like living one or two years accelerated, with all the intensity and passion that the creation of a video game can bring.
 
 **Congratulations** to all the Jammers of GGJ Paris 2012, to Anne-Laure, Communications Director of Isart Digital for a perfect organization and logistics, and Olivier who announced that he was handing over to Swing Swing Submarines for the management of next year's Jam! Finally, don't hesitate to discover [the list of 22 games created in Paris](http://globalgamejam.org/og/games/17474/list) during this exciting weekend.
+
+:black_small_square: _GGJ12 report, end of line_
 
 
 
