@@ -136,6 +136,28 @@ One of our neighboring Jammers points out to me that the game is still a bit har
 
 Releasing a game by avoiding the testing phase to take advantage of a favorable launch window? This pattern suddenly seems eerily familiar ...
 
+## 14h
+
+While Jurasnake Park is torturing the players who try it, I decide to check out the finished projects from our fellow Jammers. After a few minutes, I'm shocked: the level is really high, especially compared to last year. Some concepts are truly original:
+
+- [SnakeDemocracy](http://goo.gl/WcBSz), of course, which offers a reinterpretation of a video game standard with the possibilities of social networks and a totally current political angle.
+
+- [Quetzacoatl](http://goo.gl/jQfmc), an ecological-mystical metaphor using a completely hijacked "virtual Dj" turntable. The team behind this project miraculously managed to deliver an effective prototype, after 30 hours of tough fight against a stubborn device that refused to send usable values.
+
+- [The Loop](http://goo.gl/FW9hC), of surprising beauty and finish, continuing games like 'Flow'.
+
+- [Reverse of Babylon](http://goo.gl/BVCFB), a prototype of a quality equivalent to an XBLA game, invites the player to explore the Babylonian maze, in a double-sided course half submerged in fog. The team behind this project confessed to having changed technology at the start of the Game Jam, making the feat even greater.
+
+- [Miop](http://goo.gl/LeAHt), made in WebGL + Javascript, mixes flocking algorithms with very pure and perfectly mastered graphics. The handwriting of Chen, the 2D graphic designer, is sensitively transcribed by the 3D graphic designer who handles the transposition, and everything is superbly staged by the two developers who managed to implement a 3D renderer and Artificial Intelligence with avant-garde tools.
+
+- [InSnaketion](http://goo.gl/bFZde), one of the VR projects that everyone was impressed with its level of finish! Seeing such a large team (8 jammers) is a constant source of amazement for me, as to their ability to coordinate in such a short time!
+
+The final meeting in the auditorium will be an opportunity for the Jammers' teams to discuss their experiences, successes and/or failures. Some suffered more than others, for technical reasons (C++ engine that doesn't compile, source file overwrite) or human reasons (game design 10 times too ambitious...). While I have participated in similar events (demoparties, Tigsource Jams) in the past, the organization of the Global Game Jam makes it totally unique.
+
+The definition that seems to best match is this: "The life cycle of a video game, from design to delivery to players, through the promotion of the concept and its realization, condensed into 48 hours." It's a bit like living one or two years accelerated, with all the intensity and passion that the creation of a video game can bring.
+
+**Congratulations** to all the Jammers of GGJ Paris 2012, to Anne-Laure, Communications Director of Isart Digital for a perfect organization and logistics, and Olivier who announced that he was handing over to Swing Swing Submarines for the management of next year's Jam! Finally, don't hesitate to discover [the list of 22 games created in Paris](http://globalgamejam.org/og/games/17474/list) during this exciting weekend.
+
 
 
 
