@@ -1,6 +1,6 @@
 #  GGJ2012 Jurasnake Park
 
-_A 2 players game made for the Global Game Jam 2012, Isart Digital, Paris._
+:joystick: _A 2 players game made for the Global Game Jam 2012, Isart Digital, Paris._
 
 The game is implemented in [Squirrel](https://github.com/albertodemichelis/squirrel), based on [GameStart3D](https://www.youtube.com/@GameStart3D/videos).
 It was created during the Global Game Jam 2012, where the theme was `Ouroboros`.
@@ -9,7 +9,7 @@ It was created during the Global Game Jam 2012, where the theme was `Ouroboros`.
 
 :Joystick: Action game created during GGJ2012 at Isart Digital Paris. Two players, the first one controls the jeep, the second one aims the water cannon. The goal is to remain as long as possible on track, avoiding obstacles and collecting different bonuses.
 
-## Devlog
+## :memo: Devlog
 
 _During the GGJ12, I kept a devlog that was published on the [Game Side Story](https://www.gamesidestory.com/2012/02/03/carnet-de-bord-global-game-jam-2012-paris/) website. Here is it, translated into English._
 
