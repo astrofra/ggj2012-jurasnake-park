@@ -45,4 +45,73 @@ All we need now is to find a sound designer, a task that will turn out to be mor
 
 After a few hours, as Olivier had announced, the teams are formed. Back to the auditorium, and each team presents the projects that have been collectively selected. No less than 21 games are in gestation, a record for Isart & the GGJ Paris.
 
+# 10pm
+Our small team is now assembled! A 2D artist, a sound designer, and a coder will be working tirelessly on "Jurasnake Park". We unpack our gear, each person gets set up, connects their computer to Isart's local network and starts preparing their tools.
+
+Our game concept is as follows: A jeep speeds along the back of an endless serpent, and must avoid its gaping mouth by jumping. The first player controls the jeep and the jumps, the second player controls a water cannon that must douse the snake to make it harmless. We hope to fulfill one of the achievements proposed by the GGJ2012: A hardcore & a casual player team up.
+
+Given it's a relatively simple concept and our team is small, the game design discussions are quite short. Florian and I draft an initial list of the 2D assets he will need to produce, as well as an initial quality level. There's no point in aiming for a polished finish when the dimensions and proportions of the game elements could still change.
+
+Meanwhile, Eddy is preparing a list of strictly necessary sounds for this type of game: engine noise, jumping, jungle ambience.
+
+In keeping with the GGJ principle of open projects, I decide, for technical reasons, to open a Google Code Project. It will serve me as a backup server and SVN, a tool I find hard to do without when writing code. You can find it here: [Google Code Project](https://code.google.com/p/ggj2012-jurasnake-park/).
+
+Our goal, around 10pm, is to have a working executable by early morning. Florian and I also intend to get enough sleep during this first night to maintain maximum clarity and working capacity for the end of the 48 hours.
+
+# 2am, Saturday, January 28, 2012
+After 4 hours of graphics, sound design, and coding, we have a working prototype!
+
+The snake endlessly spins, the jeep moves on its back, jumps, and hits its mouth (which is currently closed).
+
+I have time to make a video capture and upload the result of iteration #0 (a coder often counts from zero, a quirk or snobbery?). Hooray! We can go and rest!
+
+[Our prototype](http://www.youtube.com/watch?v=Np6DMsygroM), first iteration.
+
+# 8:30am, Saturday, January 28, 2012
+Back at the Isart Digital premises. We find the “WTFs” team there ([Welcome To the Freak Show](http://globalgamejam.org/2012/welcome-freak-show-aka-wtfs)). They have spent almost an all-nighter on their project, whose prototype, although visually basic, already has interesting gameplay.
+
+As I boot up my machine, I find yesterday's prototype and quickly consider the list of priorities I thought about during my (short) night:
+
+- Setting up lighting that highlights Florian's work and our staging choices.
+- Implementing the Xbox paddle to start really testing the gameplay.
+- Implementing a score and a limited number of lives, conventional player motivation elements that seem essential to me.
+
+Once this game mechanic is in place, I can then add the Game Over screens, as well as the sound effects and music prepared by Eddy who seems to have spent an all-nighter with the WTFs. This way, we have a complete gameplay loop: Title screen, game screen, and game over screen.
+
+In the meantime, Olivier Lejade goes around the projects, tests the first prototypes, advises the teams. After testing our game embryo, his question falls, quick and concise: "What's the challenge ?" We discuss some vague paths to develop the gameplay and he advises us to make decisions in terms of game design.
+
+[Our prototype, second iteration](http://www.youtube.com/watch?v=MTBm25S97Ac), in the middle of the day.
+
+If I decided from the start of the Game Jam not to include a Game Designer in the team, it's mainly for fear of not being able to manage both the designer's ideas and the graphic assets. I know that next year, if I come back to the GGJ, I'll have to improve on this point!
+
+As I dive back into my initial game design document, I hear Alexis's team behind us, completely "overclocked", discussing the mechanisms of their game: SnakeDemocracy with Olivier Lejade. Pursuing the "Over 1024 simultaneous players" achievement, they decided to turn the classic Snake game into an electoral issue. Players can log on to the [SnakeDemocracy](http://globalgamejam.org/2012/snake-democracy) server, vote to direct the snake right, left, or straight ahead. Via Twitter, activists can participate in each campaign, adding apples (!) to the game grid. In 48 hours, I consider this an achievement in game design and coding!
+
+# 2pm, Saturday, January 28, 2012
+The afternoon will be intense. Florian is preparing bonus sprites and I'm starting to implement a bonus and trap spawn system, something I hadn't anticipated at all from the start.
+
+By late afternoon, the player is able to drive, jump over the snake, shoot it with the water cannon, and pick up bonuses to repair the jeep.
+
+With a life counter and a score, it's starting to look like a game, and the other Jammers who kindly test the prototype are pressing me with questions: "And you, what's your score?"
+
+After the third tester who asks me the same thing, I realize that:
+
+- I'm a poor player, being unable to answer the question.
+- I need to implement a high score, with a save feature if possible.
+
+By the end of the day, the bonuses are functional, the high score is displayed, Florian's decorative elements are almost all in place, and the snake's head is animated.
+
+To add a nuance to the challenge, we decide on two alternative endings:
+
+- If the player collides with the closed mouth of the snake, the game ends because the jeep is damaged. A game over screen will show the jeep in pieces.
+- If the player drives the jeep into the snake's open mouth, the game stops directly because the jeep has been swallowed. Florian has drawn an ending screen that is reminiscent of Jonah's misadventures in the whale's belly.
+
+# 10pm, Saturday, January 28
+After several hours of determined attempt to correctly detect the collision between the jeep and the gaping mouth of the snake, I decide to comment out all of this part of the source code.
+
+Physical collisions are not accurately reporting this event to me, and the use of triggers also proves fruitless.
+
+Rather than risk exhausting ourselves on this idea, we decide to use the two end screens randomly. The game works, although it's particularly unbalanced. The prototype is however well advanced, it's time to take a second night's rest.
+
+
+
 
