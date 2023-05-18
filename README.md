@@ -5,6 +5,8 @@
 The game is implemented in [Squirrel](https://github.com/albertodemichelis/squirrel), based on [GameStart3D](https://www.youtube.com/@GameStart3D/videos).
 It was created during the Global Game Jam 2012, where the theme was `Ouroboros`.
 
+_The game was done in 48h (Global Game Jam rules)._
+
 [![](img/jurasnake-park-yt-screenshot.png)](https://www.youtube.com/watch?v=2AjD8A8drUo)
 
 :Joystick: Action game created during GGJ2012 at Isart Digital Paris. Two players, the first one controls the jeep, the second one aims the water cannon. The goal is to remain as long as possible on track, avoiding obstacles and collecting different bonuses.
