@@ -16,56 +16,55 @@ _The game was done in 48h (Global Game Jam rules)._
 _During the GGJ12, I kept a devlog that was published on the [Game Side Story](https://www.gamesidestory.com/2012/02/03/carnet-de-bord-global-game-jam-2012-paris/) website. Here is it, translated into English._
 
 ### 3:30pm, Friday, January 27, 2012
+![Isart Digital School](img/ggj12-report-000.png)
 
-![Isart Digital school](img/ggj12-report-000.png)
+Upon arriving at the GGJ, proudly wearing our t-shirts and badges, we find ourselves waiting in the courtyard of [Isart Digital](http://www.isartdigital.com/) for the rest of the participants to join us. Among the crowd, there are some familiar faces, including a specialist from the VRGeeks team lugging an entire crate filled with sensors, helmets, and various accelerometers.
 
-Arrival at the GGJ, equipped with our t-shirts and badges, we wait in the courtyard of [Isart Digital](http://www.isartdigital.com/) for all participants to arrive. Some faces are familiar, including a VRGeeks team specialist carrying an entire cube of sensors, helmets and other accelerometers.
-
-The majority of the jammers present are men... We still have a bit of a way to go to achieve parity! In the meantime, I'm refining my mini framework under [GameStart](http://www.gamestart3d.com/) (screen change routines, Xbox Paddle reading...)
+The crowd of jammers is predominantly male... We clearly still have some distance to cover before achieving gender parity! Meanwhile, I'm busy fine-tuning my mini framework in [GameStart](http://www.gamestart3d.com/) (working on screen transition routines, Xbox controller input reading, and so forth...)
 
 ### 5pm
 
 Official launch of the GGJParis.
 
-Olivier Lejade, founder of [MekenSleep](http://www.mekensleep.com/) studio, presents the event and its proceedings, before passing the baton to [Swing Swing Submarine](http://www.swingswingsubmarine.com/), two recognized developers from Montpellier, authors of [Blocks That Matter](http://www.swingswingsubmarine.com/games/blocks-that-matter/) (XBLA, STEAM). They have already participated in previous Jams, and they remind us that while being an indie developer sometimes allows for greater creative freedom, it's not the fastest path to financial independence.
+Olivier Lejade, the founder of [MekenSleep](http://www.mekensleep.com/) studio, kicks off the event with an introduction and an outline of the day's proceedings. He then hands over the stage to [Swing Swing Submarine](http://www.swingswingsubmarine.com/), a pair of well-known developers from Montpellier who created [Blocks That Matter](http://www.swingswingsubmarine.com/games/blocks-that-matter/) (available on XBLA, STEAM). Having already participated in previous Jams, they underscore the point that while being an indie developer can often provide more creative freedom, it doesn't necessarily equate to a swift route to financial independence.
 
-The time for the video keynote arrives, with international accents. Gonzalo Frasca (PowerfulRobot), Brenda Garno (Jagged Alliance), John Romero (Doom), Will Wright (SimCity), Tomohisa Kuramitsu (Baiyon.com) take turns sharing sensitive and touching anecdotes about their respective experiences. Romero & Garno talk about their human collaboration, Frasca talks about the strong link between empathy and work relationships and the importance of improving at every competition, Wright presents his methodology against a background of wandering ants and Kuramitsu surprises us with his DJ Scratching practices using 8bit video cartridges.
+Then it's time for the video keynote, rich with international accents. Gonzalo Frasca (PowerfulRobot), Brenda Garno (Jagged Alliance), John Romero (Doom), Will Wright (SimCity), and Tomohisa Kuramitsu (Baiyon.com) each take the stage in turn, sharing poignant and touching anecdotes from their respective experiences. Romero and Garno delve into their collaborative experiences, Frasca discusses the potent connection between empathy and work relationships, emphasizing the importance of continuous improvement with each competition. Wright expounds on his methodology, using the metaphor of wandering ants, while Kuramitsu surprises us all by demonstrating his DJ scratching techniques using 8bit video cartridges.
 
-At the end of this keynote, rich in wise and valuable teachings, Olivier Lejade announces the theme: it's not a word, but an [image](https://www.gamesidestory.com/wp-content/gallery/contenu-divers/ouroboros-preview.png)... A snake biting its tail, in a cyclical and circular movement, the Ouroboros, for the most literate among us.
+Following this enriching keynote, teeming with wisdom and valuable insights, Olivier Lejade reveals the theme: instead of a word, it's an [image](https://www.gamesidestory.com/wp-content/gallery/contenu-divers/ouroboros-preview.png)... A snake biting its tail, embodying the cyclical and circular motion, the Ouroboros, for those of us well-read in such symbolism.
 
-Ready, set, go! We have 30 minutes to come up with a concept, which each of us will have to develop and present to the others in 30 seconds. Guaranteed stress, doubled by the difficulty of getting to the point in so little time. I personally won't have time to present my entire concept, which is much simpler than most of the crazy ideas coming from my co-jammers.
+On your mark, get set, go! We have a brisk 30 minutes to conceive a concept, which each of us will then need to develop and pitch to the rest in a mere 30 seconds. The stress is palpable, heightened by the challenging task of distilling our ideas down to their essence in such a brief span. Personally, I won't have the opportunity to fully present my concept, which is decidedly simpler than most of the wild and imaginative propositions brought forward by my fellow jammers.
 
 ![The 30 seconds pitch ordeal!](img/ggj12-report-001.png)
 
-Among the ideas that caught my attention, some of which are brilliantly original or hilarious, Alexis Moroz, an experienced game designer I had the opportunity to see in action at the GGJ2011, will propose a concept that will, unfortunately, not be developed. But the end of GGJ2012 Paris will show me how he might be dazzling and efficient!
+Among the multitude of ideas that sparked my interest, some standing out for their brilliant originality or sheer hilarity, there was one from Alexis Moroz, an experienced game designer I had the pleasure of witnessing in action at GGJ2011. He proposed a concept that, regrettably, would not see further development. However, as GGJ2012 Paris wrapped up, I was given a glimpse of just how astonishingly dazzling and efficient his work could be!
 
 ### 6pm (more or less)
 
-The recruitment session is launched. Everyone roams around Isart, a pizza in one hand (perfect catering, as usual with Isart Digital) and their game concept in the other, looking for collaborators.
+The recruitment session gets underway. Everyone mingles throughout Isart, one hand holding a pizza (as usual, the catering by Isart Digital is on point) and the other grasping their game concept, on the lookout for potential collaborators.
 
-Teams of 2 or 3 (!) coders are ardently looking for graphic designers, and on the opposite side, game designers & artists are doing everything to bring a coder to work on their project.
+Teams comprising 2 or 3 (!) enthusiastic coders are in hot pursuit of graphic designers, while on the flip side, game designers and artists are leaving no stone unturned in their quest to coax a coder into joining their project.
 
-For my part, I decide to team up with [Florian Belmonte](http://www.florianb.com/), an illustrator & 2D animator from the same city as me, but with whom I've never worked. He's OK with developing my game concept. The risk is relatively reduced on purpose: it's my first GGJ as a coder and I don't want to sink the ship!
+As for me, I choose to partner with [Florian Belmonte](https://twitter.com/florianbelmonte), an illustrator and 2D animator from my hometown with whom I've yet to collaborate. He's on board with developing my game concept. We're intentionally minimizing risk - after all, this is my first GGJ as a coder, and I have no intention of letting the ship go under!
 
 ![Let's code!](img/ggj12-report-002.png)
 
-All we need now is to find a sound designer, a task that will turn out to be more complex than expected, Olivier Lejade having planned to integrate a limited number of them into the Jammers' staff. In the end, Eddy is more than happy to join us, knowing that he will have the opportunity to work on 1 or 2 other projects in parallel. The Global Game Jam is also about this: plunging into 48 hours of pure rush with perfect strangers!
+Now, all we need to find is a sound designer, a task that turns out to be trickier than anticipated due to Olivier Lejade's decision to restrict the number of sound designers in the Jammer pool. Eventually, Eddy is more than willing to join us, aware that he'll have the chance to contribute to one or two other projects simultaneously. The Global Game Jam embodies this spirit: diving headfirst into a 48-hour whirlwind of creativity with perfect strangers!
 
-After a few hours, as Olivier had announced, the teams are formed. Back to the auditorium, and each team presents the projects that have been collectively selected. No less than 21 games are in gestation, a record for Isart & the GGJ Paris.
+A few hours in, just as Olivier had predicted, the teams take shape. We reconvene in the auditorium where each team showcases the projects that have been collectively chosen. No fewer than 21 games are in the works, setting a new record for both Isart and the GGJ Paris.
 
 ### 10pm
 
-Our small team is now assembled! A 2D artist, a sound designer, and a coder will be working tirelessly on "Jurasnake Park". We unpack our gear, each person gets set up, connects their computer to Isart's local network and starts preparing their tools.
+Our small yet dynamic team is now in place! A 2D artist, a sound designer, and a coder — we're ready to put our all into crafting "Jurasnake Park". Unpacking our equipment, each of us sets up our workstations, connects our computers to Isart's local network, and preps our respective tools.
 
-Our game concept is as follows: A jeep speeds along the back of an endless serpent, and must avoid its gaping mouth by jumping. The first player controls the jeep and the jumps, the second player controls a water cannon that must douse the snake to make it harmless. We hope to fulfill one of the achievements proposed by the GGJ2012: A hardcore & a casual player team up.
+Here's our game concept: A jeep is racing along the back of a seemingly endless serpent, and the driver must evade its gaping maw by jumping. The first player steers the jeep and handles the jumps, while the second player operates a water cannon tasked with dousing the snake to render it harmless. Our goal is to accomplish one of the achievements proposed by GGJ2012: the collaboration of a hardcore and a casual player.
 
-Given it's a relatively simple concept and our team is small, the game design discussions are quite short. Florian and I draft an initial list of the 2D assets he will need to produce, as well as an initial quality level. There's no point in aiming for a polished finish when the dimensions and proportions of the game elements could still change.
+Given our concept's relative simplicity and our team's compact size, the discussions surrounding game design are notably brief. Florian and I draft an initial list of the 2D assets he'll need to generate, as well as a preliminary target for quality. There's little sense in striving for a refined finish when the dimensions and proportions of the game elements are still susceptible to change.
 
-Meanwhile, Eddy is preparing a list of strictly necessary sounds for this type of game: engine noise, jumping, jungle ambience.
+Simultaneously, Eddy is compiling a list of the indispensable sound effects for our game: the roar of the engine, the sound of jumping, the ambient noise of the jungle.
 
-In keeping with the GGJ principle of open projects, I decide, for technical reasons, to open a Google Code Project. It will serve me as a backup server and SVN, a tool I find hard to do without when writing code. You can find it here: [Google Code Project](https://code.google.com/p/ggj2012-jurasnake-park/).
+In alignment with the GGJ's principle of open projects, I opt, for practical reasons, to establish a Google Code Project. This will serve as a backup server and SVN, a tool I find invaluable when it comes to coding. It's available here: [Google Code Project](https://code.google.com/p/ggj2012-jurasnake-park/).
 
-Our goal, around 10pm, is to have a working executable by early morning. Florian and I also intend to get enough sleep during this first night to maintain maximum clarity and working capacity for the end of the 48 hours.
+By around 10pm, our target is to have a functioning executable by the wee hours of the morning. Florian and I also plan on getting enough rest during this initial night to ensure our mental sharpness and work productivity remain at their peak for the remainder of the 48-hour period.
 
 ### 2am, Saturday, January 28, 2012
 
