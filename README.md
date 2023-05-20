@@ -78,72 +78,73 @@ I have time to make a video capture and upload the result of iteration #0 (a cod
 
 ### 8:30am, Saturday, January 28, 2012
 
-Back at the Isart Digital premises. We find the “WTFs” team there ([Welcome To the Freak Show](https://www.youtube.com/watch?v=x4Z6YP9xnsc)). They have spent almost an all-nighter on their project, whose prototype, although visually basic, already has interesting gameplay.
+Upon returning to the Isart Digital venue, we run into the "WTFs" team ([Welcome To the Freak Show](https://www.youtube.com/watch?v=x4Z6YP9xnsc)). They have pulled almost an all-nighter on their project, the prototype of which, while visually basic, already boasts engaging gameplay.
 
-As I boot up my machine, I find yesterday's prototype and quickly consider the list of priorities I thought about during my (short) night:
+As I power up my machine, I pull up yesterday's prototype and swiftly review the priority list I'd pondered over during my brief night's rest:
 
-- Setting up lighting that highlights Florian's work and our staging choices.
-- Implementing the Xbox paddle to start really testing the gameplay.
-- Implementing a score and a limited number of lives, conventional player motivation elements that seem essential to me.
+- Configuring lighting that accentuates Florian's artwork and our directorial decisions.
+- Integrating the Xbox paddle to start seriously assessing the gameplay.
+- Incorporating a scoring system and a finite number of lives — conventional elements of player motivation that I deem essential.
 
-Once this game mechanic is in place, I can then add the Game Over screens, as well as the sound effects and music prepared by Eddy who seems to have spent an all-nighter with the WTFs. This way, we have a complete gameplay loop: Title screen, game screen, and game over screen.
+Once these game mechanics are in place, I can proceed to add the Game Over screens, as well as the sound effects and music prepped by Eddy, who appears to have spent an all-nighter with the WTFs. With these elements, we establish a full gameplay loop: Title screen, game screen, and game over screen.
 
-In the meantime, Olivier Lejade goes around the projects, tests the first prototypes, advises the teams. After testing our game embryo, his question falls, quick and concise: "What's the challenge ?" We discuss some vague paths to develop the gameplay and he advises us to make decisions in terms of game design.
+Meanwhile, Olivier Lejade makes his rounds among the projects, testing the early prototypes and offering advice to the teams. After giving our nascent game a try, he poses a succinct, incisive question: "What's the challenge?".
+We discuss some nebulous ideas for advancing the gameplay, and he advises us to make definitive decisions with respect to game design.
 
 [Our prototype, second iteration](http://www.youtube.com/watch?v=MTBm25S97Ac), in the middle of the day.
 
-If I decided from the start of the Game Jam not to include a Game Designer in the team, it's mainly for fear of not being able to manage both the designer's ideas and the graphic assets. I know that next year, if I come back to the GGJ, I'll have to improve on this point!
+My decision to forgo including a Game Designer in our team from the outset of the Game Jam was primarily driven by apprehension over juggling both the designer's concepts and the graphical assets. I recognize that, should I return to the GGJ next year, this is an area where I'll need to up my game!
 
-As I dive back into my initial game design document, I hear Alexis's team behind us, completely "overclocked", discussing the mechanisms of their game: SnakeDemocracy with Olivier Lejade. Pursuing the "Over 1024 simultaneous players" achievement, they decided to turn the classic Snake game into an electoral issue. Players can log on to the [SnakeDemocracy](http://globalgamejam.org/2012/snake-democracy) server, vote to direct the snake right, left, or straight ahead. Via Twitter, activists can participate in each campaign, adding apples (!) to the game grid. In 48 hours, I consider this an achievement in game design and coding!
+As I delve back into my initial game design document, I overhear the team behind us, featuring Alexis, in full throttle discussing the dynamics of their game, SnakeDemocracy, with Olivier Lejade. In their quest for the "Over 1024 simultaneous players" achievement, they've reimagined the classic Snake game as an electoral battle. Players can log on to the [SnakeDemocracy](http://globalgamejam.org/2012/snake-democracy) server, cast their votes to steer the snake right, left, or keep it on a straight path. Via Twitter, supporters can engage in each campaign, adding apples (!) to the game grid. Considering the 48-hour timeframe, I regard this as a remarkable accomplishment in both game design and coding!
 
 ### 2pm, Saturday, January 28, 2012
+The afternoon proves to be an intense stretch of work. Florian busies himself with creating bonus sprites, and I begin devising a system for spawning bonuses and traps — a feature I hadn't initially accounted for.
 
-The afternoon will be intense. Florian is preparing bonus sprites and I'm starting to implement a bonus and trap spawn system, something I hadn't anticipated at all from the start.
+By the late afternoon, our player can drive, hurdle over the snake, neutralize it with the water cannon, and gather bonuses to repair the jeep.
 
-By late afternoon, the player is able to drive, jump over the snake, shoot it with the water cannon, and pick up bonuses to repair the jeep.
+With the addition of a life counter and a score tally, our prototype is beginning to resemble a bona fide game. The other Jammers, who graciously offer to test our prototype, consistently probe me with the same question: "What's your personal best score?"
 
-With a life counter and a score, it's starting to look like a game, and the other Jammers who kindly test the prototype are pressing me with questions: "And you, what's your score?"
+After being asked the same question by the third tester, two things dawn on me:
 
-After the third tester who asks me the same thing, I realize that:
+- I don't embody the typical gamer mentality, as evidenced by my inability to answer their question.
+- I need to introduce a high score system, preferably one with a save feature.
 
-- I don't have the mindset of a gamer, being unable to answer the question.
-- I need to implement a high score, with a save feature if possible.
+By the day's end, the bonuses are up and running, the high score is visible, most of Florian's decorative components are in place, and the snake's head is animated.
 
-By the end of the day, the bonuses are functional, the high score shows up, Florian's decorative elements are almost all in place, and the snake's head is animated.
+To imbue the challenge with a degree of subtlety, we settle on two divergent conclusions:
 
-To add a nuance to the challenge, we decide on two alternative endings:
-
-- If the player collides with the closed mouth of the snake, the game ends because the jeep is damaged. A game over screen will show the jeep in pieces.
-- If the player drives the jeep into the snake's open mouth, the game stops directly because the jeep has been swallowed. Florian has drawn an ending screen that is reminiscent of Jonah's misadventures in the whale's belly.
+- If the player collides with the snake's clenched jaws, the game concludes due to the jeep sustaining damage. A game over screen then displays the jeep in a state of disrepair.
+- If the player navigates the jeep into the snake's gaping maw, the game comes to an abrupt halt because the jeep has been ingested. Florian has illustrated an end screen that harks back to Jonah's adventures inside the whale's belly.
 
 ![Testing the 2 players mode](img/ggj12-report-003.png)
 
 ### 10pm, Saturday, January 28
 
-After several hours of determined attempt to correctly detect the collision between the jeep and the gaping mouth of the snake, I decide to comment out all of this part of the source code.
+After several hours spent wrestling with detecting the collision between the jeep and the snake's gaping mouth, I opt to comment out this entire segment of the source code.
 
-Physical collisions are not accurately reporting this event to me, and the use of triggers also proves fruitless.
+The physical collisions fail to accurately relay this event, and my attempts to employ triggers prove equally unproductive.
 
-Rather than risk exhausting ourselves on this idea, we decide to use the two end screens randomly. The game works, although it's particularly unbalanced. The prototype is however well advanced, it's time to take a second night's rest.
+Instead of depleting our energy reserves on this concept, we agree to randomly alternate between the two end screens. Although the game is distinctly unbalanced, it functions nonetheless. The prototype has made significant progress, signaling that it's time for us to indulge in a second night's rest.
+
 ### 8:30am, Sunday, January 28, 2012
 
-Back on my code, after a night partly spent thinking about the last priorities, I add a final challenge element, drawn by Florian: indigenous people wearing masks.
+Returning to my code, after a night partially dedicated to mulling over the remaining priorities, I introduce a final challenge component, artfully designed by Florian: tribal figures adorned with masks.
 
-Again, after 1 hour of various implementations, I fail to test the "water cannon / indigenous" collisions. So we decide once again to abandon a feature.
+Once again, after about an hour of varied implementation attempts, I am unable to validate the interactions between the "water cannon" and the "tribal figures". Hence, we choose to discard yet another feature.
 
-I just take the time to make a [video capture](http://www.youtube.com/watch?v=2AjD8A8drUo) of the almost-last iteration of the game, to register the game on the Global Game Jam website.
+I do, however, manage to spare some time to create a [video capture](http://www.youtube.com/watch?v=2AjD8A8drUo) of the penultimate iteration of the game for submission to the Global Game Jam website.
 
-Having set a deadline around 11 AM for a testable version, I take care of the last game design adjustments: new obstacles to increase the diversity of the game and the last sound effects produced by Eddy, as well as cosmetic elements around the GUI.
+With an internal deadline of around 11 AM for a testable version, I address the final game design refinements: introducing new obstacles to enhance the game's diversity, incorporating the latest sound effects crafted by Eddy, and adding finishing touches to the GUI.
 
-The randomness of traps and bonuses remains quite rigid, as I've reached the limit of what my [spawning](http://en.wikipedia.org/wiki/Spawning_%28video_gaming%29) code could generate. This is also a point I need to improve at my next Jam.
+The spawn pattern for traps and bonuses remains rather inflexible, reflecting the limits of my [spawning](http://en.wikipedia.org/wiki/Spawning_%28video_gaming%29) code. This is certainly an area I need to improve for my next Jam.
 
 ### 12pm
 
-Last second stress: the bonuses, which were working an hour ago, remain inert when the player picks them up. I probably broke something in my code, which sometimes happens when programming, and even more so in a hurry.
+Last-minute panic sets in: the bonuses, which were functioning an hour ago, now remain unresponsive when the player picks them up. I must have inadvertently disrupted something in my code—a hazard that occasionally comes with coding, especially when done in a hurry.
 
-While I start to track down this last-minute bug, Florian goes downstairs to fetch Sandwiches & Wraps, offered by the Isart staff. Once again, SVN is going to save my life: I ask it to give me the list of changes made to the source code in the last hour. In a few seconds, a line that I had deleted catches my attention: the bonuses are no longer correctly initialized. I restore the line of code in question. Phew, everything works again!
+As I commence my hunt for this eleventh-hour bug, Florian heads downstairs to retrieve sandwiches and wraps, courtesy of the Isart staff. [SVN](https://en.wikipedia.org/wiki/Apache_Subversion) comes to my rescue yet again: I instruct it to list the changes made to the source code in the last hour. Within moments, a line that I had deleted pops out at me—the bonuses are no longer being correctly initialized. I promptly restore the necessary line of code. A sigh of relief, as everything is back in working order!
 
-While discussing with another Jammer, a student at Isart, who watches me test the game one last time, I urgently add a huge "Game Over" to the end illustrations produced by Florian: "You should add a 'Game Over', by convention" ... So there are conventions in video games? Like in theater or cinema? I realize a little more what it's like to learn video games in a school 🙂
+While chatting with another Jammer, an Isart student who is watching me run the game for the final time, I hastily append a prominent "Game Over" to the end illustrations crafted by Florian: "You should add a 'Game Over', it's convention"... So there are conventions in video games? Much like in theatre or cinema? This enlightens me further about what it means to study video games at school. 🙂
 
 ### 1 pm
 
