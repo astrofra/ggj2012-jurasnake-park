@@ -148,35 +148,35 @@ While chatting with another Jammer, an Isart student who is watching me run the 
 
 ### 1 pm
 
-The official project completion deadline is approaching, but we want to make the game accessible to other Jammers as soon as possible. We still have 2 good hours to correct the last playability issues, but I prefer to release the game as is, especially since my fingers are starting to get numb. In the hours to come, many Jammers and journalists covering the GGJ will take turns on Jurasnake Park. One of them will manage to break a high score that remains undefeated to this day.
+The official deadline for project completion is drawing near, yet we are eager to make the game available to other Jammers at the earliest. We still have a solid couple of hours to address the remaining playability issues, but I decide to release the game in its current state, particularly as my fingers are starting to feel numb. Over the next few hours, numerous Jammers and journalists covering the GGJ will take turns playing Jurasnake Park. One of them will even manage to set a high score that remains unbeaten to this day.
 
 ![Final gameplay with a Xbox pad in hand](img/ggj12-report-004.png)
 
-One of our neighboring Jammers points out to me that the game is still a bit hardcore, and that the difficulty deserves to be adjusted. When I explain to him that I wanted to wrap up the release as soon as possible so that everyone could test the game, he replies: "Ah? So you skipped the play-test phase?"
+A Jammer from a neighboring team suggests that our game might be a bit too challenging and could benefit from some difficulty adjustments. When I explain my intention to wrap up the release as swiftly as possible so that everyone could test the game, he retorts, "Oh? So you skipped the play-testing phase?"
 
-Releasing a game by avoiding the testing phase to take advantage of a favorable launch window? This pattern suddenly seems eerily familiar ...
+The idea of launching a game while sidestepping the testing phase just to leverage a favorable launch window suddenly strikes a familiar chord...
 
 ## 2pm
 
-While Jurasnake Park is torturing the players who try it, I decide to check out the finished projects from our fellow Jammers. After a few minutes, I'm shocked: the level is really high, especially compared to last year. Some concepts are truly original:
+While Jurasnake Park puts its players through a series of challenges, I take a moment to explore the completed projects of our fellow Jammers. Within minutes, I'm taken aback: the quality is impressive, particularly when compared to the previous year. Some concepts are brilliantly original:
 
-- [SnakeDemocracy](https://web.archive.org/web/20120207054556/http://www.snakedemocracy.com/), of course, which offers a reinterpretation of a video game standard with the possibilities of social networks and a totally current political angle.
+- [SnakeDemocracy](https://web.archive.org/web/20120207054556/http://www.snakedemocracy.com/), a standout example, merges classic game mechanics with the potentials of social media in a highly topical political context.
 
-- **Quetzacoatl**, an ecological-mystical metaphor using a completely hijacked "virtual Dj" turntable. The team behind this project miraculously managed to deliver an effective prototype, after 30 hours of tough fight against a stubborn device that refused to send usable values.
+- **Quetzacoatl**, a mystical-ecological metaphor that ingeniously repurposes a "virtual DJ" turntable. The team behind this project managed to pull off an effective prototype after 30 hours of wrestling with a device that refused to provide usable values.
 
-- **The Loop**, of surprising beauty and finish, continuing games like 'Flow'.
+- **The Loop**, a game of surprising elegance and polish, takes cues from titles like 'Flow'.
 
-- **Reverse of Babylon**, a prototype of a quality equivalent to an XBLA game, invites the player to explore the Babylonian maze, in a double-sided course half submerged in fog. The team behind this project confessed to having changed technology at the start of the Game Jam, making the feat even greater.
+- **Reverse of Babylon**, a prototype with quality equating to an XBLA game, plunges the player into a fog-enshrouded Babylonian labyrinth with a double-sided journey. Impressively, the team confessed they switched technology at the onset of the Game Jam, making their accomplishment even more extraordinary.
 
-- **Miop**, made in WebGL + Javascript, mixes flocking algorithms with very pure and perfectly mastered graphics. The handwriting of Chen, the 2D graphic designer, is sensitively transcribed by the 3D graphic designer who handles the transposition, and everything is superbly staged by the two developers who managed to implement a 3D renderer and Artificial Intelligence with avant-garde tools.
+- **Miop**, developed using WebGL and Javascript, combines flocking algorithms with refined, well-executed graphics. The sensitive touch of Chen, the 2D graphic designer, is adeptly transposed by the 3D graphic designer, and the pair of developers stage it all beautifully, having managed to implement a 3D renderer and artificial intelligence with cutting-edge tools.
 
-- **InSnaketion**, one of the VR projects that everyone was impressed with its level of finish! Seeing such a large team (8 jammers) is a constant source of amazement for me, as to their ability to coordinate in such a short time!
+- **InSnaketion**, a VR project, drew admiration from everyone for its high level of finish. I continually marvel at how such a large team (eight Jammers) could coordinate so effectively within such a tight timeframe!
 
-The final meeting in the auditorium will be an opportunity for the Jammers' teams to discuss their experiences, successes and/or failures. Some suffered more than others, for technical reasons (C++ engine that doesn't compile, source file overwrite) or human reasons (game design 10 times too ambitious...). While I have participated in similar events (demoparties, Tigsource Jams) in the past, the organization of the Global Game Jam makes it totally unique.
+The final assembly in the auditorium provides an opportunity for the various teams of Jammers to share their experiences, victories, and hurdles. Some teams faced more challenges than others, whether due to technical complications (a C++ engine that wouldn't compile, overwritten source files) or human issues (overly ambitious game designs). Although I've participated in similar events (demoparties, Tigsource Jams) in the past, the Global Game Jam's organization sets it apart.
 
-The definition that seems to best match is this: "The life cycle of a video game, from design to delivery to players, through the promotion of the concept and its realization, condensed into 48 hours." It's a bit like living one or two years accelerated, with all the intensity and passion that the creation of a video game can bring.
+The most fitting description seems to be: "The entire life cycle of a video game, from design to delivery, encompassing the promotion of the concept and its actualization, all condensed into 48 hours." It's akin to experiencing one or two accelerated years, complete with all the intensity and passion that video game creation entails.
 
-**Congratulations** to all the Jammers of GGJ Paris 2012, to Anne-Laure, Communications Director of Isart Digital for a perfect organization and logistics, and Olivier who announced that he was handing over to Swing Swing Submarines for the management of next year's Jam! Finally, don't hesitate to discover [the list of 22 games created in Paris](http://globalgamejam.org/og/games/17474/list) during this exciting weekend.
+**Kudos** to all the GGJ Paris 2012 Jammers, to Anne-Laure, the Communications Director of Isart Digital, for her impeccable organization and logistics, and to Olivier who announced his handover to Swing Swing Submarines for the management of next year's Jam! Lastly, feel free to explore [the list of 22 games created in Paris](http://globalgamejam.org/og/games/17474/list) during this exhilarating weekend.
 
 :black_small_square: _GGJ12 report, end of line_
 
