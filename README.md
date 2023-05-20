@@ -106,7 +106,7 @@ With the addition of a life counter and a score tally, our prototype is beginnin
 
 After being asked the same question by the third tester, two things dawn on me:
 
-- I don't embody the typical gamer mentality, as evidenced by my inability to answer their question.
+- I don't have the mindset of a gamer, being unable to answer the question.
 - I need to introduce a high score system, preferably one with a save feature.
 
 By the day's end, the bonuses are up and running, the high score is visible, most of Florian's decorative components are in place, and the snake's head is animated.
